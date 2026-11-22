@@ -5,3 +5,7 @@ Learning Git, GitHub, and AI-assisted web development
 . Publish a small website
 
 Excited to show this one :)
+
+## 
+How to view
+Open index.html in a web browser (the file will be created later).
