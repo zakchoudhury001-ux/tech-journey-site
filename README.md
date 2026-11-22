@@ -1,16 +1,13 @@
 
 My tech Journey Site 
-Learning Git, GitHub, and AI-assisted web development 
-na
+Learning Git, GitHub, and creating AI-assisted web development 
+
 . Learn a professional Git workflow 
 . Publish a small website
-. Let gooooo
+. 
 
 Excited to show this one :)
 
 ## 
 How to view
 Open index.html in a web browser (the file will be created later).
-
-##
-Practice
